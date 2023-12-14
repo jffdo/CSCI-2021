@@ -1,0 +1,7 @@
+He is evil and fits easily into most overhead storage bins.
+0 10 50 180 580 1790
+14 56
+19991 19091
+gamfeg string YesSirMayIHaveAnother
+4 6 2 3 1 5
+1001
